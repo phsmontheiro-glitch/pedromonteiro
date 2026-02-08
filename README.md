@@ -27,5 +27,5 @@ Desenvolvedor com foco em soluções de servidor, arquitetura de sistemas e fund
 
 <p align="left">
   <a href="https://www.linkedin.com/in/phmontheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:phsmontheiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=phsmontheiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
