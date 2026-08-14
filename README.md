@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Monteiro!
 
-### Estudante de Engenharia de Software (3º período)
+### Estudante de Engenharia de Software (4º período)
 ### Desenvolvedor Back-end em formação
 
 Desenvolvedor com foco em soluções de servidor, arquitetura de sistemas e fundamentos de computação. Experiência técnica no desenvolvimento de aplicações web, APIs RESTful e sistemas CRUD, aplicando princípios de Clean Code e boas práticas de desenvolvimento.
